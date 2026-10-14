@@ -1,0 +1,23 @@
+{
+  "name": "SPI 言語トレーナー 800問",
+  "short_name": "SPI言語800",
+  "description": "SPIテストセンター言語対策。熟語200語から600問と従来200問。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#102b48",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
